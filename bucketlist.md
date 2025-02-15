@@ -111,7 +111,7 @@
 </header>
 
 <main>
-    <h2>Things I Want to Do In My Life</h2>
+    <h2>Things I Want To Do In My Life</h2>
 
     <ul>
         <li>
